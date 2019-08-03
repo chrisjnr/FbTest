@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20361926247",
+    "firebase_url": "https://fbtest-c104a.firebaseio.com",
+    "project_id": "fbtest-c104a",
+    "storage_bucket": "fbtest-c104a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20361926247:android:cf3e0d81839ac7b4",
+        "android_client_info": {
+          "package_name": "com.iconicdev.co.fbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20361926247-lp087gksrhf3arp2686qoec5plusn4t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iconicdev.co.fbtest",
+            "certificate_hash": "147e1655200e6ace6cf914c6e2a54189332dc728"
+          }
+        },
+        {
+          "client_id": "20361926247-2tksl1ittbl4t6j02ts2kesearqko6gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADK1NMYk_yIWiJUUrenJVbYNzXmjccN4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20361926247-2tksl1ittbl4t6j02ts2kesearqko6gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
